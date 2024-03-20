@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.example.apidemo.ApiDemoApplicationTests" tests="1" skipped="0" failures="0" errors="0" timestamp="2024-03-18T13:32:56" hostname="&gt;" time="0.521">
+  <properties/>
+  <testcase name="contextLoads()" classname="com.example.apidemo.ApiDemoApplicationTests" time="0.521"/>
+  <system-out><![CDATA[13:32:56.161 [Test worker] INFO org.springframework.test.context.support.AnnotationConfigContextLoaderUtils -- Could not detect default configuration classes for test class [com.example.apidemo.ApiDemoApplicationTests]: ApiDemoApplicationTests does not declare any static, non-private, non-final, nested classes annotated with @Configuration.
+13:32:56.210 [Test worker] INFO org.springframework.boot.test.context.SpringBootTestContextBootstrapper -- Found @SpringBootConfiguration com.example.apidemo.ApiDemoApplication for test class com.example.apidemo.ApiDemoApplicationTests
+
+  .   ____          _            __ _ _
+ /\\ / ___'_ __ _ _(_)_ __  __ _ \ \ \ \
+( ( )\___ | '_ | '_| | '_ \/ _` | \ \ \ \
+ \\/  ___)| |_)| | | | | || (_| |  ) ) ) )
+  '  |____| .__|_| |_|_| |_\__, | / / / /
+ =========|_|==============|___/=/_/_/_/
+ :: Spring Boot ::                (v3.2.3)
+
+2024-03-18T13:32:56.391Z  INFO 89122 --- [api-demo] [    Test worker] c.e.apidemo.ApiDemoApplicationTests      : Starting ApiDemoApplicationTests using Java 21.0.1 with PID 89122 (started by nathanielusherwood in /Users/nathanielusherwood/Desktop/api-demo)
+2024-03-18T13:32:56.392Z  INFO 89122 --- [api-demo] [    Test worker] c.e.apidemo.ApiDemoApplicationTests      : No active profile set, falling back to 1 default profile: "default"
+2024-03-18T13:32:56.887Z  INFO 89122 --- [api-demo] [    Test worker] c.e.apidemo.ApiDemoApplicationTests      : Started ApiDemoApplicationTests in 0.616 seconds (process running for 1.151)
+]]></system-out>
+  <system-err><![CDATA[WARNING: A Java agent has been loaded dynamically (/Users/nathanielusherwood/.gradle/caches/modules-2/files-2.1/net.bytebuddy/byte-buddy-agent/1.14.12/be4984cb6fd1ef1d11f218a648889dfda44b8a15/byte-buddy-agent-1.14.12.jar)
+WARNING: If a serviceability tool is in use, please run with -XX:+EnableDynamicAgentLoading to hide this warning
+WARNING: If a serviceability tool is not in use, please run with -Djdk.instrument.traceUsage for more information
+WARNING: Dynamic loading of agents will be disallowed by default in a future release
+]]></system-err>
+</testsuite>
