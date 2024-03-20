@@ -6,3 +6,5 @@
 6. Happy converting
 
 Oh, and thanks to mlevett.com for the last minute front-end design, owe you man!
+
+Note: Make sure you are running an up to date version of Java
