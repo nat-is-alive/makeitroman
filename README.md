@@ -4,3 +4,5 @@
 4. Open index.html in your favourite browser
 5. Dont forget to stop the service running with ctrl/cmd + c in terminal when you're done
 6. Happy converting
+
+Oh, and thanks to mlevett.com for the last minute front-end design, owe you man!
